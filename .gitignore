@@ -5,5 +5,4 @@ docs
 .DS_Store
 lib
 .publish
-dist
 min
